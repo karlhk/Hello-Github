@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8474583c-9dd4-4324-8ce4-0fbf4da9eb02" name="Default Changelist" comment="" />
+    <list default="true" id="8474583c-9dd4-4324-8ce4-0fbf4da9eb02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -48,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614247125223</updated>
       <workItem from="1614247126494" duration="933000" />
-      <workItem from="1615707832264" duration="1074000" />
+      <workItem from="1615707832264" duration="2215000" />
     </task>
     <servers />
   </component>
